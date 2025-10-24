@@ -39,6 +39,23 @@ Following the analysis, key recommendations were adopted:
 
 The follow-up dataset shows stronger sales momentum, improved consistency and a clearer data-driven understanding of performance.
 
+---
+## 🛠️ Tools and Technologies
+- Python (pandas, matplotlib, seaborn, numpy)
+- Jupyter Notebook
+
+
+---
+## 📊 Example Visuals
+
+<img width="1082" height="363" alt="Screenshot 2025-10-24 at 04 47 25" src="https://github.com/user-attachments/assets/0f715778-7ba9-4629-91fd-dc730add37c1" />
+
+
+<img width="1038" height="568" alt="Screenshot 2025-10-24 at 04 47 40" src="https://github.com/user-attachments/assets/7a2c4bdb-c0da-4d1a-8009-811667d9e244" />
+
+
+<img width="1119" height="397" alt="Screenshot 2025-10-24 at 04 48 02" src="https://github.com/user-attachments/assets/916124cc-4de2-43ec-af26-77620fa68cb3" />
+
 
 ---
 
