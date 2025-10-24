@@ -6,6 +6,7 @@ A data analysis project exploring income and sales performance for a real resale
 ## 📖 Project Overview
 
 This project analyses 76 resale transactions recorded between June 2023 and October 2025, focusing on revenue growth, sales consistency and pricing behaviour.
+
 The analysis was carried out in Python using pandas, matplotlib and seaborn.
 
 The goal was to understand how the business evolved over time and how changes to pricing strategy and inventory affected sales performance.
