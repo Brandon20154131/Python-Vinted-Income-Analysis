@@ -48,12 +48,15 @@ The follow-up dataset shows stronger sales momentum, improved consistency and a 
 ---
 ## 📊 Example Visuals
 
+#### Interactive Cumulative Revenue Over Time
+
 <img width="1082" height="363" alt="Screenshot 2025-10-24 at 04 47 25" src="https://github.com/user-attachments/assets/0f715778-7ba9-4629-91fd-dc730add37c1" />
 
+#### Revenue, Rolling Average vs Goal
 
 <img width="1038" height="568" alt="Screenshot 2025-10-24 at 04 47 40" src="https://github.com/user-attachments/assets/7a2c4bdb-c0da-4d1a-8009-811667d9e244" />
 
-
+#### Revenue and Transactions by Month
 <img width="1119" height="397" alt="Screenshot 2025-10-24 at 04 48 02" src="https://github.com/user-attachments/assets/916124cc-4de2-43ec-af26-77620fa68cb3" />
 
 
