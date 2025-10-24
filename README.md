@@ -1,7 +1,7 @@
 # Python-Vinted-Income-Analysis
 A data analysis project exploring income and sales performance for a real resale business on Vinted. The analysis includes full data preparation, exploratory data analysis (EDA) and insights into sales frequency, price distribution and revenue trends between 2023 and 2025.
 
-📘 **View the full notebook:** [Open in NBViewer](https://nbviewer.org/github/Brandon20154131/Vinted-Income-Analytics/blob/main/Vinted_EDA.ipynb)
+📘 **View the full notebook:** [Open in NBViewer](https://github.com/Brandon20154131/Vinted-Income-Analytics/blob/main/Vinted_EDA.ipynb)
 
 # Data Analytics Project
 
