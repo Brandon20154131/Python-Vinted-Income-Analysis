@@ -28,13 +28,13 @@ The goal was to understand how the business evolved over time and how changes to
 
 Following the analysis, key recommendations were adopted:
 
-Expand mid-range inventory to stabilise revenue.
+- Expand mid-range inventory to stabilise revenue.
 
-Maintain selective high-value listings to preserve margin opportunities.
+- Maintain selective high-value listings to preserve margin opportunities.
 
-Introduce consistent pricing tiers to improve predictability.
+- Introduce consistent pricing tiers to improve predictability.
 
-Track categorical and buyer-level data for future segmentation and retention analysis.
+- Track categorical and buyer-level data for future segmentation and retention analysis.
 
 The follow-up dataset shows stronger sales momentum, improved consistency and a clearer data-driven understanding of performance.
 
